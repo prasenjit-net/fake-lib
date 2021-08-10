@@ -1,5 +1,5 @@
 {
-  "name": "fake-lib",
+  "name": "@prasenjit-net/fake-lib",
   "version": "1.0.0",
   "description": "Made with create-react-library",
   "author": "prasenjit-net",
@@ -49,5 +49,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
